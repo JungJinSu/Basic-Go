@@ -1,10 +1,5 @@
-본 프로젝트는 goLang 을 공부해가며 정리한 내용을 바탕으로 작성 되었습니다.
-
-
-  - 기초부터 업무까지
-
-
-
+ goLang 기초
+ 
 참고 자료
   - 사이트 : 공식 사이트 (https://golang.org/)
   - 사이트 :  패스트캠퍼스 온라인 강의                    (https://online.fastcampus.co.kr)
